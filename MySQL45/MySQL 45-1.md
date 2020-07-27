@@ -2,7 +2,7 @@
 
 ## MySQL基本架构示意图
 
-![截屏2020-07-03下午3.08.40](/Users/quyibo/Desktop/截屏2020-07-03下午3.08.40.png)
+![截屏2020-07-03下午3.08.40](https://raw.githubusercontent.com/Elton123456/img_Repository/master/MySQL%E9%80%BB%E8%BE%91%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 MySQL大致分为Server层和存储引擎两部分。
 
